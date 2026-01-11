@@ -1,7 +1,7 @@
 ### Hi, I'm @Dyesh Raj
 
 * 🔭 I’m interested in programming and learning new things
-* 📚 I’m currently learning Computer Vision and NLP
+* 📚 I’m currently learning DSA and upscaling my skills in WebDev
 * 📩 How to reach me work email: dyeshraja@gmail.com
   
 ## 🔗 My Tech Stack
